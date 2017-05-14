@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_two"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+   android:background="#6b00feae"
+    tools:context="com.baway.dslxm.SecondActivity">
+
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/two_recy2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </android.support.v7.widget.RecyclerView>
+
+
+
+</RelativeLayout>
